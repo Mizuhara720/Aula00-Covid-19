@@ -1,0 +1,14 @@
+Que livros/documentos nós recomendamos?
+R:JavaScript o Guia Definitivo, JavaScript Guia do Programador,
+Guia de referencia e Guia de referencia da ECMA.
+
+Para aprender JS, precisamos saber Inglês?
+R:Não, somente o querer aprender.
+
+Que dicas nós demos para quem quer estudar?
+R:Para se apreender a programar é necessario a pratica
+e pratica constante até você conseguir a aprender.E uma
+das principais dicas é imporntate anotações. 
+
+Quais programas nós insatalamos no computador?
+R:Google Chrome, Visual Studio Code, Node JS

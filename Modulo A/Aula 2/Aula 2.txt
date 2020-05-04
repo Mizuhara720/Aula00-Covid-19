@@ -1,0 +1,18 @@
+Sabe a diferença entre cliente e servidor para internet?
+R:Servidor é aquele que provem as informações e armazena 
+para a distribuição.Já o Clinte são aqueles que irão receber
+as informações e fazer uso delas.
+
+Para que serve HTML,CSS e Javascript?
+R:Html serve para adicionar o conteúdo ao site.Já o css
+serve para modelar o conteúdo adicionado pelo Html. E o
+JavaScript vem para interligar o conteúdo e embelezamento
+dando uma facilidade de utilização onde trata da engenharia
+do site e configurações.
+
+Cite 4 sites que fazem uso do JavaScript:
+
+1.Youtube
+2.Google Chrome
+3.Netflix
+4.Facebook

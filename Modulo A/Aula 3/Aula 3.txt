@@ -1,0 +1,17 @@
+
+Sabe que empresa criou o JavaScript?
+R:Brendan Eich na Netscape Communications Corporation, 
+para o Navegador Netscape.
+
+Java e JavaScript possuem alguma relação?
+R:Não, pois o nome JavaScript foi utilizado pois na
+época estava na moda falar  "linguagem Java" por 
+este motivo em uma jogada de marketing eles utilizaram
+o termo "Java" em sua linguagem.
+
+O que ECMAScript tem a ver com JavaScript?
+R:ECMAScript nada mais é que a linguagem JavaScript
+padronizada.
+
+Sabia que o programa WhatsApp desktop é criado em JavaScript?
+R:Sim

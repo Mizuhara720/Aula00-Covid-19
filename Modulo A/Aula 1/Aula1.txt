@@ -1,0 +1,6 @@
+O que JavaScript é capaz de fazer?
+R:O JavaScript faz praticamente tudo desde a base, 
+desginer de um site ou pagina na web sendo usado para 
+dar forma aos sites junto com Html e css, sendo usado
+a favor do cliente criando a interação dos componentes
+do site.
