@@ -1,0 +1,13 @@
+Como é possível guardar o valor digitado em um prompt() dentro
+de uma variável?
+R:Uilizando Concatenação! "+ nome +".
+
+Como fazer com que um número digitado em um prompt() possa ser
+usando em cálculos?
+R:Colocando Number.parseInt(n) ou Number(n).
+
+Como transformar um texto todo para letras MAIÚSCULAS?
+R:Usando o comando s.toUpperCase().
+
+Como mostrar u número formatado como um valor monetário?
+R:Utilizando o comando n1.tolocaleString("País desejado"),{style: "currency", currency:"BRL"})

@@ -1,0 +1,14 @@
+O que é uma variável?
+R:Variável é um valor que pode mudar de acordo com a situação.
+
+Como declarar uma variável numérica inteira ou Real usando JS?
+R:om a palavra chave var . Por exemplo, var x = 42 . Esta sintaxe
+ pode ser usada para declarar tanto variáveis locais como variáveis globais.
+
+Quais são os tipos primitivos do JS?
+R:Boolean, String e Number.
+
+O que significa colocar o valor null dentro de uma variável?
+R: Então , variáveis não inicializadas que se referem a banco
+ de dados recebem o valor Null(nulo). Retorno : False - Indica 
+que a variável não possui um valor Null.

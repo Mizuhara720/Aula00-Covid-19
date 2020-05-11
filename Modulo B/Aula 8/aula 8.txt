@@ -1,0 +1,12 @@
+Para que serve o operador % em JS? Seria para calcular a porcentagem?
+R:Não é utilizado para fazer a divisão inteira.Ou para indicar o resto
+da divisão inteira.
+
+6+4/2 é igual a 5 ou 8?
+R:8 pois sempre a multiplicação e divisão vem primeiro.
+
+Se uma variável N está valendo 10 e executamos um n+=5, qual será o seu novo valor?
+R:-5
+
+Para que servem os operadores ++ e --?
+R:São um tipo de simplificação de x+=1 ou x-=1

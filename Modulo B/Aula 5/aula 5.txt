@@ -1,0 +1,11 @@
+Já sabe organizar suas pastas com VSCode?
+R:Sim
+
+O Node.js está instalado no seu computador?
+R:Sim, como extensão do VSCode.
+
+Sabe diferenciar HTML5, CSS3 e JS dentro de um código?
+R:Sim, pelas suas extenções .js, .html, e .css
+
+Sabe disparar alertas, confirmações e perguntas?
+R:Sim.
