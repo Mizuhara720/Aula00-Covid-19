@@ -1,0 +1,9 @@
+Qual é a diferença entre usar =, == e === em código escrito em JS?
+R:= significa que recebe algo nol JavaScript, == significa igual e === é utilizado
+para falar que dois valores são exatamente identicos.
+
+Em uma mesma expressão, temos os operadores || e &&. Quem eu resolvo primeiro?
+R:Primeiro o && e depois o ||
+
+Sabe usar o operador ternário para colocar um entre dois valores em uma variável?
+R:sim

@@ -1,0 +1,11 @@
+O que significa a sigla DOM?
+R:Document Object Model
+
+Sabe montar a árvore DOM de um website simples?
+R:Sim
+
+O que são os elementos Parent e os elementos Child em uma árvore DOM?
+R:São as partes hierarquicas da árvore.
+
+Quais são os cinco principais métodos de selecionar elementos DOM dentro do JS?
+R: Por Marca, Por ID, por Nome, por Classe e por seletor
